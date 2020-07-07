@@ -1,5 +1,5 @@
 
-# Madrid Realtime Object Detection 🌴
+# Madrid Realtime Object Detection 🇪🇸
 ## Project done for a TouchDesigner workshop "URBAN-DX : Real-time Urban Digital eXploration"
 
 
