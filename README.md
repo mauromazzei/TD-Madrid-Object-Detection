@@ -6,8 +6,8 @@
 ![Cover Image](cover.png)
 Demo: https://vimeo.com/436011202  
 
-Done with a custom ML app communicating TouchDesigner project that interpolate data in realtime.
-All the datas are shared between the processes by
+Done with a custom ML app communicating with a TouchDesigner project that interpolates data in realtime.
+All datas are shared between the processes by
 - Spout for texture sharing (tnx to [Spiral Technica](https://github.com/spiraltechnica) for makin it possible)
 - OSC for data analysis results 
 
